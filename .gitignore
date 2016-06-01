@@ -1,0 +1,6 @@
+*.[ao]
+css
+*.css
+node-modules
+.idea
+.sass-cache
